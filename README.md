@@ -13,6 +13,7 @@ Specialities:
 - Equipment maintance and calibration
 
 About Me:
+<\n>
 I love chemistry, I believe that it is the best tool set we have to understanding the complex world that we live in. Despite the hardships of this field of study there is nothing I would rather be doing. I am extremely curious, researching any topic that catches my eye, from ancient history to modern marvels. In my free time I enjoy knitting, quilting, and astrophotography. Feel free to ask me about any of my current or past projects!
 
 <!---
