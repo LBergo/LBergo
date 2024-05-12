@@ -2,11 +2,11 @@ Hello, I am Laif Bergo. I am a recent graduate of CU Boulder, majoring in chemis
 - My pronouns are she/her/they
 - Reach me at laifbergo@gmail.com
 
-Specialities
--Natural product extraction
--Organization and communication
--Analytical chemistry techniques
--Quality control analysis
+Specialities:
+- Natural product extraction
+- Organization and communication
+- Analytical chemistry techniques
+- Quality control analysis
 - Gas Chromatography Mass Spectrometry (GCMS)
 - High Perfomrance Liquid Chromatography (HPLC)
 - Nulcear Magnetic Resonance (NMR)
