@@ -1,4 +1,4 @@
-Hello, I am Laif Bergo. I am a recent graduate of CU Boulder, majoring in chemistry with a double minor in space and biochemistry.
+Hello, I am Laif Bergo. I am a graduate of CU Boulder, majoring in chemistry with a double minor in space and biochemistry.
 - My pronouns are she/her/they
 - Reach me at laifbergo@gmail.com
 
@@ -7,7 +7,8 @@ Specialities:
 - Organization and communication
 - Analytical chemistry techniques
 - Quality control analysis
-- Gas Chromatography Mass Spectrometry (GCMS)
+- Small and medium volume extraction
+- Gas Chromatography, both Mass Spectrometry (GCMS) and Flame Ionization Detection (FID)
 - High Perfomrance Liquid Chromatography (HPLC)
 - Nulcear Magnetic Resonance (NMR)
 - Equipment maintance and calibration
