@@ -1,5 +1,5 @@
 Hello, I am Laif Bergo. I am a graduate of CU Boulder, majoring in chemistry with a double minor in space and biochemistry.
-- My pronouns are she/her/they
+- My pronouns are she/her/it
 - Reach me at laifbergo@gmail.com
 
 Specialities:
