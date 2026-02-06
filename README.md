@@ -1,6 +1,6 @@
-Hello, I am Laif Bergo. I am a graduate of CU Boulder, majoring in chemistry with a double minor in space and biochemistry.
+Hello, I am Laif Bergo. I am a graduate student in chemistry at the univeristy of Maine. I got my undergradate at the University of Colorado, Boulder.
 - My pronouns are she/her/it
-- Reach me at laifbergo@gmail.com
+- Reach me at laif.bergo@maine.edu
 
 Specialities:
 - Natural product extraction
